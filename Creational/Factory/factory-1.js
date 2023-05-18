@@ -1,4 +1,6 @@
-/** Factory Method Pattern */
+/** Factory Method Pattern
+ * The Factory method pattern provides an interface for creating objects that can be modified after creation. The creation of objects can happen at one centralized single place. It helps in simplifying and better organizing our code.
+*/
 
 class Alien {
     constructor (name, phrase) {
