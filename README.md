@@ -37,5 +37,7 @@ Behavioral pattern control communication and assignments of responsibilities bet
 
 ### Observer Pattern
 
+### PubSub Pattern
+
 ## Roundup Pattern
 
